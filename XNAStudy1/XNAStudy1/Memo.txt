@@ -1,0 +1,10 @@
+﻿XNA 4.0 のポイント
+
+http://ja.wikipedia.org/wiki/Microsoft_XNA
+API(Direct3D 10以降の洗練されたインターフェイスをある程度模倣したものらしい)
+（ただし内部的には依然としてDirect3D 9のラッパーでしかないため、Windows Vista/7であってもDirect3D 10の機能は使えない）。
+
+コンテンツリソースが詰まったDLLができているのかななんて
+
+4x4行列で3Dの回転・平行移動
+http://msdn.microsoft.com/ja-jp/library/cc373014.aspx

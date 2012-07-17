@@ -1,0 +1,8 @@
+c:\users\s\documents\visual studio 2010\Projects\XNAStudy1\XNAStudy1\XNAStudy1\bin\x86\Debug\Content\XNAContentTestBMPPhoto1.xnb
+c:\users\s\documents\visual studio 2010\Projects\XNAStudy1\XNAStudy1\XNAStudy1\bin\x86\Debug\XNAStudy1.exe
+c:\users\s\documents\visual studio 2010\Projects\XNAStudy1\XNAStudy1\XNAStudy1\bin\x86\Debug\XNAStudy1.pdb
+c:\users\s\documents\visual studio 2010\Projects\XNAStudy1\XNAStudy1\XNAStudy1\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\s\documents\visual studio 2010\Projects\XNAStudy1\XNAStudy1\XNAStudy1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\s\documents\visual studio 2010\Projects\XNAStudy1\XNAStudy1\XNAStudy1\obj\x86\Debug\XNAStudy1.exe
+c:\users\s\documents\visual studio 2010\Projects\XNAStudy1\XNAStudy1\XNAStudy1\obj\x86\Debug\XNAStudy1.pdb
+C:\Users\s\documents\visual studio 2010\Projects\XNAStudy1\XNAStudy1\XNAStudy1\bin\x86\Debug\Content\Ane1.xnb
